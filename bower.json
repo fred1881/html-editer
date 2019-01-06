@@ -1,0 +1,14 @@
+{
+  "name": "w3-css",
+  "authors": [
+    "wchang28 <wchang28@hotmail.com>"
+  ],
+  "description": "W3.CSS",
+  "main": "css/w3.css",
+  "moduleType": [],
+  "keywords": [
+    "CSS"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.w3schools.com/w3css/default.asp"
+}
